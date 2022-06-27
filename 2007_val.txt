@@ -1,7 +1,0 @@
-D:\PyCharm\detection\YOLOv4\VOCdevkit/VOC2007/JPEGImages/019_scratch.jpg 101,54,547,427,0
-D:\PyCharm\detection\YOLOv4\VOCdevkit/VOC2007/JPEGImages/042_scratch.jpg 192,258,516,462,0
-D:\PyCharm\detection\YOLOv4\VOCdevkit/VOC2007/JPEGImages/053_scratch.jpg 296,384,451,437,0 1,355,142,443,0
-D:\PyCharm\detection\YOLOv4\VOCdevkit/VOC2007/JPEGImages/065_scratch.jpg 184,37,369,542,0 356,512,430,550,0
-D:\PyCharm\detection\YOLOv4\VOCdevkit/VOC2007/JPEGImages/096_scratch.jpg 6,327,105,393,0 165,245,298,384,0 301,250,358,427,0
-D:\PyCharm\detection\YOLOv4\VOCdevkit/VOC2007/JPEGImages/103_scratch.jpg 363,120,481,231,0 210,1,375,566,0
-D:\PyCharm\detection\YOLOv4\VOCdevkit/VOC2007/JPEGImages/113_scratch.jpg 104,343,287,486,0 354,183,487,303,0 374,249,574,444,0

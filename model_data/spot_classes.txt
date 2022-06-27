@@ -1,0 +1,8 @@
+edge
+normal
+twist
+copper
+overlap
+mutilation
+splash
+

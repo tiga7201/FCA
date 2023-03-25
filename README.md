@@ -19,7 +19,7 @@ run train.py to train the model
 
 the weights will be automatically saved to the logs folder
 # Test
-Set the weight path in yolo.py
+Set the weight path ("model_path") in yolo.py
 
 run get_map.py
 # Reference

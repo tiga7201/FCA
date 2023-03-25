@@ -1,5 +1,7 @@
 # Requirements
 pytorch>=1.2.0
+# Weight
+https://drive.google.com/file/d/15uuvIFfCdEFX1HKvL9zsByQC8aFKQD3D/view?usp=share_link
 # Test
 run get_map.py
 # To detect single image

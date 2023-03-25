@@ -2,6 +2,8 @@
 pytorch>=1.2.0
 # Weight
 https://drive.google.com/file/d/15uuvIFfCdEFX1HKvL9zsByQC8aFKQD3D/view?usp=share_link
+
+Download the weight and place them in the logs folder
 # Test
 run get_map.py
 # To detect single image

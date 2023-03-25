@@ -8,6 +8,7 @@ Download the weight and place them in the logs folder
 run get_map.py
 # To detect single image
 run predict.py and input the image path.
+
 We have uploaded several images in the img folder
 # Train
 run train.py
